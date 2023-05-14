@@ -6,9 +6,9 @@ This repo stores a series of exercises to practice and use the different React h
 
 ## Technologies used in this project
 
-- React](https://es.reactjs.org/) v18
-- Vite](https://vitejs.dev/)
-- Jest](https://jestjs.io/)
+- [React](https://es.reactjs.org/) v18
+- [Vite](https://vitejs.dev/)
+- [Jest](https://jestjs.io/)
 
 ---
 
@@ -18,11 +18,11 @@ Once the repository is cloned run the following commands:
 
 ### To install dependencies
 
-`yarn`
+```yarn```
 
 ### To run the project locally
 
-`yarn dev`
+```yarn dev```
 
 ---
 
