@@ -18,11 +18,15 @@ Once the repository is cloned run the following commands:
 
 ### To install dependencies
 
-```yarn```
+```bash
+yarn
+```
 
 ### To run the project locally
 
-```yarn dev```
+```bash
+yarn dev
+```
 
 ---
 
